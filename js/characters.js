@@ -1,1 +1,1 @@
-// Archivo
+console.log("CHARACTERS");
